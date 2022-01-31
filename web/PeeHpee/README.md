@@ -36,7 +36,7 @@ else{
 
 trying to send **"Kahla"** in the **_** param prints out this prompt
 
-Payload : ``` http://20.119.58.135:1234/?__=&_=Kahla; ``` 
+Payload : ``` http://20.119.58.135:1234/?__=&_=Kahla ``` 
 
 Output : 
 
