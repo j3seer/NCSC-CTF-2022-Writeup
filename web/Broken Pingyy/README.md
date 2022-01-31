@@ -11,16 +11,16 @@ the website seems like its not working
 
 ![3](https://user-images.githubusercontent.com/58823465/151815537-56958a35-7b1c-43a9-9c9b-9228a8364c00.png)
 
-
-i tried to get command injection using just **ls** or **; ls**  but nothing works
+I tried to get command injection using just `ls` or `; ls`  but nothing works
 
 Looking through the provided source code we can see that there's a typo in the ping command 
-notice the **'** before **ping**
+
+Notice the `'` before `ping`
 
 ![image](https://user-images.githubusercontent.com/58823465/151815670-63d7d1e3-8365-4d4b-99ab-702601011a64.png)
 
 
-so now we just need to add a **'** before anything we type and we have to add **;** to close out the first command 
+so now we just need to add a `'` before anything we type and we have to add `;` to close out the first command 
 so our payload becomes 
 
 ``` ' ; ls ```
