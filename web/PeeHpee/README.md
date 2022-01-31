@@ -43,7 +43,7 @@ Output :
 ![a](https://user-images.githubusercontent.com/58823465/151814781-7f079c2b-0cf4-42eb-8a71-250713e79fca.png)
 
 
-We notice that we have the other **__** param too that we haven't trie to use yet 
+We notice that we have the other `__` param too that we haven't trie to use yet 
 and it seems sorta useless but its there soo we might as well just use it right?
 
 So we know that the code is filtering the word **Kahla** and won't allow us to get the flag with it 
