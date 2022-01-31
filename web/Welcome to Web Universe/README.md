@@ -12,7 +12,8 @@ Link: http://20.119.58.135:4567/leetstatus
 
 
 At first i didn't know where to go and how to try to solve this 
-i tried to check for robots.txt or index.php or index.html .. couldn't find anything until the source code was provided later
+i tried to check for robots.txt or index.php or index.html .. couldn't find anything until i checked the source code that was provided 
+
 it seems like the website is running using nginx ! 
 
 
