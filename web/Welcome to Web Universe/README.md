@@ -59,7 +59,7 @@ and this is possible because of the misconfiguration of nginx
 
 you can read more about this here : 
 
-`https://www.acunetix.com/vulnerabilities/web/path-traversal-via-misconfigured-nginx-alias/`
+https://www.acunetix.com/vulnerabilities/web/path-traversal-via-misconfigured-nginx-alias/
 
 finally we find the path to be ../flag
 
