@@ -1,4 +1,4 @@
-# NCSC-2022-WriteUps
+# NCSC-CTF-2022-WriteUps
 
 Played with username **"ch0nguS"**
 
