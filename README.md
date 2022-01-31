@@ -12,5 +12,6 @@ Solved Web challenges
 
 ## My solves : 
 
-![task_hashed](https://user-images.githubusercontent.com/58823465/151805233-89c52f56-95cb-4164-9896-73ae4e715bdf.png)
+![1](https://user-images.githubusercontent.com/58823465/151805308-dd5d2212-6a7f-46ee-8214-8b0eb5ac3663.png)
+
 
