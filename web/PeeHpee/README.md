@@ -36,12 +36,12 @@ else{
 
 trying to send **"Kahla"** in the **_** param prints out this prompt
 
-![a](https://user-images.githubusercontent.com/58823465/151814781-7f079c2b-0cf4-42eb-8a71-250713e79fca.png)
-
-
 Payload : ``` http://20.119.58.135:1234/?__=&_=Kahla; ``` 
 
-Output : ```Hacking Attempt detected```
+Output : 
+
+![a](https://user-images.githubusercontent.com/58823465/151814781-7f079c2b-0cf4-42eb-8a71-250713e79fca.png)
+
 
 We notice that we have the other **__** param too that we haven't trie to use yet 
 and it seems sorta useless but its there soo we might as well just use it right?
